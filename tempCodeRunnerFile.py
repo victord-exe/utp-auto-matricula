@@ -1,0 +1,1 @@
+Exception(f"Failed to click the element after {attempts} attempts")
